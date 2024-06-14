@@ -1,16 +1,20 @@
-## Hi there 👋
+# HELLO 👋
 
-<!--
-**RIZWAN-06/RIZWAN-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **WOW**
 
-Here are some ideas to get you started:
+### *what a thrill to meet you!* ##
+I'm **RIZWAN**, a budding AI/ML enthusiast currently diving into the exciting world of artificial intelligence and machine learning. As I embark on this learning journey, I'm eager to explore new concepts, build my skills, and eventually contribute to impactful projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 Currently learning AI and Machine Learning fundamentals
+- 📚 Studying with resources like online courses, tutorials, and books
+- 👯 Looking to collaborate with other learners on beginner-friendly projects
+- 🤔 Open to discussions about AI, ML, and coding best practices
+- 💬 Ask me about my learning journey and any beginner tips!
+
+#### **Tech Stack** ####
+- 💻 Languages: Python (beginner)
+- 🔧 Tools: Jupyter Notebook, Git
+- 🛠️ Frameworks: Exploring TensorFlow and Scikit-Learn
+
+Feel free to connect with me as I navigate my learning path in AI and ML. Let's learn and grow together!🫡
