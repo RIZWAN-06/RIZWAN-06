@@ -13,8 +13,13 @@ I'm **RIZWAN**, a budding AI/ML enthusiast currently diving into the exciting wo
 - 💬 Ask me about my learning journey and any beginner tips!
 
 #### **Tech Stack** ####
+
 - 💻 Languages: Python (beginner)
 - 🔧 Tools: Jupyter Notebook, Git
 - 🛠️ Frameworks: Exploring TensorFlow and Scikit-Learn
+
+##### How to reach me #####
+- **Gmail** rizu33451@gmail.com
+- **Insta** https://www.instagram.com/codingriz/
 
 Feel free to connect with me as I navigate my learning path in AI and ML. Let's learn and grow together!🫡
